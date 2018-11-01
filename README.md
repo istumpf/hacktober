@@ -1,2 +1,2 @@
 # hacktober
-hacktoberfest countdown 5
+hacktoberfest countdown
